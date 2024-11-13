@@ -1,7 +1,7 @@
 
 <h1 align="center">Ricochet - Bouncy / Floating projectiles in TF2</h1>
 
-This plugin adds a projectile guidance system that enables projectiles to bounce/ricochet/hover on surfaces.
+This plugin adds a guidance system that enables projectiles to bounce/ricochet/hover on surfaces.
 
 The plugin essentialy draws 4 beams (whiskers) at a certain angle around any projectile to form a cone, when the cone is triggered the projectile's direction will be corrected to avoid said trigger.
 
