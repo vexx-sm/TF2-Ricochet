@@ -23,6 +23,7 @@ The plugin essentialy draws 4 beams (whiskers) at a certain angle around any pro
 
 3. **Configuration System**:
    - Customizable through `ricochet.cfg` and can be updated without restarting:
+   
      - `whisker_length` - Controls surface detection range.
      - `whisker_angle` - Determines detection cone width.
      - `max_bounces` - Sets redirection limits per projectile.
