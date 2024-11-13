@@ -37,9 +37,9 @@ The plugin essentialy draws 4 beams (whiskers) at a certain angle around any pro
 
 ## Installation
 
-1. Download the latest `ricochet.smx` from the [Releases](https://github.com/vexx-sm/tf2-ricochet/releases) page and place it in your `sourcemod\plugins` folder.
+1. Download the latest `Ricochet.smx` from the [Releases](https://github.com/vexx-sm/tf2-ricochet/releases) page and place it in your `sourcemod\plugins` folder.
 
-2. Download the latest `ricochet.cfg` from the [Releases](https://github.com/vexx-sm/tf2-ricochet/releases) page and place it in your `sourcemod\configs` folder.
+2. Download the latest `Ricochet.cfg` from the [Releases](https://github.com/vexx-sm/tf2-ricochet/releases) page and place it in your `sourcemod\configs` folder.
 
 3. Reload the plugin or restart your server.
 
@@ -47,7 +47,7 @@ The plugin essentialy draws 4 beams (whiskers) at a certain angle around any pro
 
 - The latest [SourceMod](https://www.sourcemod.net/downloads.php) release.
 
-- If you plan to compile the plugin on your own make sure to have [match.inc](https://github.com/vexx-sm/TF2-Ricochet/blob/main/scripting/include/math.inc) in your include folder.
+- If you plan to compile the plugin on your own make sure to have [math.inc](https://github.com/vexx-sm/TF2-Ricochet/blob/main/scripting/include/math.inc) in your include folder.
 
 ## License & Contributing
 
