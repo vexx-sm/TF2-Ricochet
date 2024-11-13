@@ -29,12 +29,6 @@ The plugin essentialy draws 4 beams (whiskers) at a certain angle around any pro
      - `max_bounces` - Sets redirection limits per projectile.
      - `show_whiskers` - A toggle that shows the cone in game for an easier time adjusting it.
 
-4. **Admin Controls**:
-   - Command: `sm_rico`, allowing:
-   
-     - A Universal toggle.
-     - Configuration reloading.
-     - Admin-only access (ADMFLAG_ROOT).
 
 ## Commands
 
