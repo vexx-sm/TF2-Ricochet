@@ -30,6 +30,7 @@ The plugin essentialy draws 4 beams (whiskers) at a certain angle around any pro
 
 4. **Admin Controls**:
    - Command: `sm_rico`, allowing:
+   
      - A Universal toggle.
      - Configuration reloading.
      - Admin-only access (ADMFLAG_ROOT).
@@ -51,7 +52,7 @@ The plugin essentialy draws 4 beams (whiskers) at a certain angle around any pro
 
 - The latest [SourceMod](https://www.sourcemod.net/downloads.php) release.
 
-- If you plan to compile the plugin on your own make sure to have the [match.inc](https://github.com/vexx-sm/TF2-Ricochet/blob/main/scripting/include/math.inc).
+- If you plan to compile the plugin on your own make sure to have [match.inc](https://github.com/vexx-sm/TF2-Ricochet/blob/main/scripting/include/math.inc) in your include folder.
 
 ## License & Contributing
 
