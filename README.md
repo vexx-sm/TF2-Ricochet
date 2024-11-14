@@ -8,7 +8,7 @@ The plugin essentialy draws 4 beams or [whiskers](https://i.imgur.com/Crf7ZU2.mp
 > [!NOTE]
 > The plugin is in an early stage and currently doesn't cover ALL projectiles.
 
-[!!preview](https://github.com/user-attachments/assets/59efcbd3-4602-4488-a5d7-bdfb8aee361e)
+[!!preview](https://github.com/user-attachments/assets/d23522c2-4a94-42b7-9e69-a73bd154189b)
 
 ## Features
 
