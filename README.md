@@ -3,7 +3,7 @@
 
 This plugin adds a guidance system that enables projectiles to bounce/ricochet/hover on surfaces.
 
-The plugin essentialy draws 4 beams (whiskers) at a certain angle around any projectile to form a cone, when the cone is triggered the projectile's direction will be corrected to avoid said trigger.
+The plugin essentialy draws 4 beams or [whiskers](https://i.imgur.com/Crf7ZU2.mp4) at a certain angle around any projectile to form a cone, when the cone is triggered the projectile's direction will be corrected to avoid said trigger.
 
 > [!NOTE]
 > The plugin is in an early stage and currently doesn't cover ALL projectiles.
