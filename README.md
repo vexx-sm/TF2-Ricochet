@@ -6,7 +6,7 @@ This plugin adds a guidance system that enables projectiles to bounce/ricochet/h
 The plugin essentialy draws 4 beams or [whiskers](https://i.imgur.com/Crf7ZU2.mp4) at a certain angle around any projectile to form a cone, when the cone is triggered the projectile's direction is corrected to avoid said trigger.
 
 > [!IMPORTANT]
-> The plugin is in an early stage and currently doesn't cover ALL projectiles with Major plans for future releases.
+> The plugin is in an early stage and currently doesn't cover ALL projectiles with plans for future releases. This currently serves as a base.
 
 [!preview](https://github.com/user-attachments/assets/d23522c2-4a94-42b7-9e69-a73bd154189b)
 
