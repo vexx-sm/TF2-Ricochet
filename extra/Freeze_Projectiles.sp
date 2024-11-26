@@ -7,6 +7,9 @@
 bool g_bProjectilesFrozen = false;
 StringMap g_ProjectileVelocities;
 
+// A trigger to freeze current active projectiles, ignores new projectiles unless triggered again.
+// sm_freezep or sm_fp
+
 public Plugin myinfo = {
     name = "Projectile Freeze Tool",
     author = "vexx-sm",
