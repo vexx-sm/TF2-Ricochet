@@ -27,7 +27,7 @@ public Plugin myinfo = {
     name = "Ricochet",
     author = "vexx-sm",
     description = "Projectile guidance system using whisker simulation",
-    version = "1.0.0",
+    version = "0.1.0",
     url = ""
 };
 
